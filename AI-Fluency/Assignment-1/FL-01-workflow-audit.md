@@ -110,5 +110,20 @@ When reviewing my code, point out missing edge cases and error handling before s
 ```
 
 ### Evidence
-Attach a screenshot of the Claude Project configuration page showing the project name and custom instructions visible.
+Claude Project with custom instructions
+<img width="959" height="539" alt="Screenshot 2026-07-13 173251" src="https://github.com/user-attachments/assets/26e38a76-1315-487a-bb24-0e18d6ea0c96" />
+Claude account
+<img width="958" height="539" alt="Screenshot 2026-07-13 173309" src="https://github.com/user-attachments/assets/392c161d-ddcf-41e2-9d6e-c04374644514" />
+Chatgpt account
+<img width="959" height="539" alt="Screenshot 2026-07-13 173325" src="https://github.com/user-attachments/assets/d30b0e14-69df-42a6-aece-695e1b0115f4" />
+AI Fluency: Framework & Foundations(Completed)
+https://verify.skilljar.com/c/jvoc8egsjcwh
+<img width="607" height="401" alt="image" src="https://github.com/user-attachments/assets/b15b00d1-6745-4b4f-ad07-c7fd50d6dfb5" />
+<img width="958" height="449" alt="image" src="https://github.com/user-attachments/assets/0261efdc-94b0-4f25-ab33-1ec85fe6d6ee" />
+
+
+
+
+
+
 
