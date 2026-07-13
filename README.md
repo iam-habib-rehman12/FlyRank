@@ -1,26 +1,16 @@
-# Minimal API Server
+# API Endpoint
 
-A minimal Python API server with two JSON endpoints built using only the standard library (no external dependencies).
+Coursework for Backend AI Engineering program.
 
-## Endpoints
+## Structure
 
-| Method | Path       | Response                        |
-|--------|------------|---------------------------------|
-| GET    | `/`        | `{"message": "Hello, world!"}` |
-| GET    | `/health`  | `{"status": "ok"}`             |
-| GET    | any other  | `{"error": "not found"}` (404) |
-
-## Usage
-
-```bash
-python server.py
 ```
-
-Server runs on `http://localhost:8000`.
-
-Test with curl:
-
-```bash
-curl http://localhost:8000/
-curl http://localhost:8000/health
+├── Backend-AI-Engineering/
+│   └── Assignment-1/
+│       ├── server.py          # Minimal API server with 2 JSON endpoints
+│       └── .gitignore
+├── AI-Fluency/
+│   └── Assignment-1/
+│       └── FL-01-workflow-audit.md
+└── README.md
 ```
