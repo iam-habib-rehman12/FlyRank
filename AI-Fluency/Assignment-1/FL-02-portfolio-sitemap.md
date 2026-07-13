@@ -42,10 +42,7 @@ Landing ──► Home (Hero)
 
 ## Claude Project Setup
 
-### Project name
-Backend Security Portfolio — AI Fluency
-
-### Custom instructions (paste into Project)
+I created a Claude Project called **"Backend Security Portfolio — AI Fluency"** with these custom instructions:
 
 ```
 You are a tutor helping me build a portfolio that proves ONE thing: that I build production-ready, secure APIs that pass compliance reviews.
@@ -64,7 +61,7 @@ Reference: I'm a backend AI engineering intern. My stack is Python, FastAPI, Pos
 
 ## Pressure-Test Prompt
 
-Run this inside your Claude Project once it's set up:
+I ran this prompt inside my Claude Project:
 
 ```
 This is my proof statement: "I build production-ready, secure APIs that pass compliance reviews — input validation, auth, rate limiting, CORS — on first pass. I'm proving this to a tech lead at a compliance-heavy company, so they will download my CV."
@@ -85,9 +82,9 @@ Pressure-test this sitemap against my claim and my one action. Specifically:
 Be specific, not encouraging. I want to know what to change.
 ```
 
-## What I'll Change After Pressure-Testing
+## Changes I Made After Pressure-Testing
 
-*(Fill this in after running the prompt in Claude.)*
+*(To fill in after I get Claude's response.)*
 
 1. ...
 2. ...

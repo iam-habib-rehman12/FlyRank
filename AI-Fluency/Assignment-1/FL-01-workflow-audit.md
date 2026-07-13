@@ -64,7 +64,7 @@ Backend AI Engineering — Workflow Audit
 
 ### Custom instructions (Project knowledge)
 
-Copy and paste this into your Claude Project's custom instructions field:
+I created a Claude Project called **"Backend AI Engineering — Workflow Audit"** and set these custom instructions:
 
 ```
 # Who you are helping
