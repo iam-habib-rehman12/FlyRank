@@ -84,7 +84,7 @@ Be specific, not encouraging. I want to know what to change.
 
 ## Changes I Made After Pressure-Testing
 
-*Structurally the sitemap is right — four pages, one action, no wasted nav items. The gap isn't architecture, it's evidence: the claim makes four specific, checkable promises and the sitemap doesn't yet say where the checking happens.
+Structurally the sitemap is right — four pages, one action, no wasted nav items. The gap isn't architecture, it's evidence: the claim makes four specific, checkable promises and the sitemap doesn't yet say where the checking happens.
 
 **1. Which pages earn their place?**
 - **Work** — unconditionally. It's the only page that's evidence instead of assertion. Every other page exists to route people into it or catch them after it.
@@ -119,7 +119,16 @@ Two questions to resolve before you build anything further:
 - Are the audit case study and the build case study the same project? If yes, that's your strongest possible structure — the audit *is* your pass artifact for the build. If no, "on first pass" has no receipt for whichever project doesn't have an audit attached, and the claim reads as confidence, not proof.
 - Who ran the "pass" — you, against a checklist? If so, is that checklist itself visible, so the tech lead can judge your bar instead of taking your word that you cleared it?
 
-One more precise inconsistency: your claim says "APIs," plural. Your sitemap shows one build case study. Either the second case study also needs to demonstrate a build, not just an audit, or the claim should read "an API" — a plural claim resting on singular evidence is exactly the kind of gap a compliance reviewer is trained to catch.*
+One more precise inconsistency: your claim says "APIs," plural. Your sitemap shows one build case study. Either the second case study also needs to demonstrate a build, not just an audit, or the claim should read "an API" — a plural claim resting on singular evidence is exactly the kind of gap a compliance reviewer is trained to catch.
 
-1. 
+```
+Pictures:
+```
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/49d987dc-435a-4bc3-be9e-e7cde486aa57" />
+<img width="959" height="539" alt="Screenshot 2026-07-13 173325" src="https://github.com/user-attachments/assets/05deed2e-9a88-445a-a7a3-c31509262adc" />
+<img width="959" height="539" alt="Screenshot 2026-07-13 174546" src="https://github.com/user-attachments/assets/f6197fef-6f97-48a0-8614-cbc4f5c06290" />
+<img width="959" height="539" alt="Screenshot 2026-07-13 174604" src="https://github.com/user-attachments/assets/3a9a9bcf-e94f-4a2c-af2d-6645ef70eb94" />
+
+
+
 
