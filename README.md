@@ -15,6 +15,8 @@ Coursework for FlyRank AI Internship — Backend AI Engineering track.
 │   │   └── FL-01-workflow-audit.md    # Workflow audit (15 tasks + classifications)
 │   ├── Assignment-3/
 │   │   └── FL-03-proof-statement.md   # Proof statement (claim + person + action)
+│   └── Assignment-4/
+│       └── FL-04-case-studies.md      # Framed case studies + voice card + before/after
 │   └── Assignment-2/
 │       ├── FL-02-portfolio-sitemap.md # Sitemap + Claude Project + pressure test
 │       └── sitemap.svg               # Sitemap visual
