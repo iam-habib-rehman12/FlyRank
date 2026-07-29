@@ -23,6 +23,8 @@ AI-Fluency/
     FL-04-case-studies.md
   Assignment-5/
     FL-05-prompt-ladder.md
+  Assignment-6/
+    FL-02-prompt-iteration-log.md
   Capstone/
     FL-capstone-send-the-link.md
 
