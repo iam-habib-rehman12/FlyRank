@@ -10,6 +10,9 @@ Backend-AI-Engineering/
     server.py
   Assignment-2/
     BE-02-nodejs-express-notes.md
+  Assignment-3/
+    server.py
+    README.md
 
 AI-Fluency/
   Assignment-1/
