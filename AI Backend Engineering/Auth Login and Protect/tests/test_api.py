@@ -63,6 +63,7 @@ def test_missing_login_field_returns_400():
         "/auth/login", json={"email": "student@example.com"}
     )
     assert response.status_code == 400
+    assert response.json()["error"] == "Email and password are required"
 
 
 def test_login_returns_tokens():
@@ -84,12 +85,13 @@ def test_bad_login_returns_401():
         },
     )
     assert response.status_code == 401
+    assert response.json()["error"] == "Invalid login credentials"
 
 
 def test_profile_requires_bearer_token():
     response = client.get("/protected/profile")
     assert response.status_code == 401
-    assert response.json()["detail"] == "Access token required"
+    assert response.json()["error"] == "Access token required"
 
 
 def test_profile_rejects_tampered_token():
@@ -98,7 +100,7 @@ def test_profile_rejects_tampered_token():
         headers={"Authorization": "Bearer tampered-token"},
     )
     assert response.status_code == 401
-    assert response.json()["detail"] == "Invalid or expired token"
+    assert response.json()["error"] == "Invalid or expired token"
 
 
 def test_profile_accepts_valid_token():
