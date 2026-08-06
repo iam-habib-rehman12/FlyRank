@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Habib Rehman Identity Kit</title>
+  <desc id="desc">One-page identity kit showing fonts, four-color palette, HR monogram, and style note.</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="28" flood-color="#111827" flood-opacity="0.10"/>
+    </filter>
+    <linearGradient id="mark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="1000" fill="#F8FAFC"/>
+  <circle cx="1450" cy="-30" r="260" fill="#2563EB" opacity="0.05"/>
+  <circle cx="80" cy="960" r="210" fill="#14B8A6" opacity="0.06"/>
+
+  <g transform="translate(110 88)">
+    <text x="0" y="0" dominant-baseline="hanging" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="4" fill="#2563EB">IDENTITY KIT / 01</text>
+    <text x="0" y="66" dominant-baseline="hanging" font-family="Space Grotesk, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-3" fill="#111827">Habib Rehman</text>
+    <text x="2" y="164" dominant-baseline="hanging" font-family="Inter, Arial, sans-serif" font-size="27" fill="#475569">Backend AI engineer building clear, dependable systems.</text>
+    <line x1="0" y1="230" x2="1380" y2="230" stroke="#CBD5E1" stroke-width="2"/>
+  </g>
+
+  <g transform="translate(110 370)">
+    <rect x="0" y="0" width="520" height="430" rx="32" fill="#FFFFFF" filter="url(#shadow)"/>
+    <text x="42" y="40" dominant-baseline="hanging" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3" fill="#64748B">MARK</text>
+    <rect x="42" y="100" width="210" height="210" rx="54" fill="url(#mark)"/>
+    <path d="M91 154v102M91 205h72M163 154v102" fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round"/>
+    <path d="M183 256V154h38c31 0 45 16 45 38 0 18-11 30-29 35l33 29" fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="294" y="116" dominant-baseline="hanging" font-family="Space Grotesk, Arial, sans-serif" font-size="48" font-weight="700" fill="#111827">HR</text>
+    <text x="294" y="180" dominant-baseline="hanging" font-family="Inter, Arial, sans-serif" font-size="21" fill="#475569">Monogram</text>
+    <text x="42" y="352" dominant-baseline="hanging" font-family="Inter, Arial, sans-serif" font-size="19" fill="#64748B">Rounded geometry. Clear at 16 px.</text>
+  </g>
+
+  <g transform="translate(670 370)">
+    <rect x="0" y="0" width="820" height="205" rx="32" fill="#FFFFFF" filter="url(#shadow)"/>
+    <text x="38" y="34" dominant-baseline="hanging" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3" fill="#64748B">TYPE</text>
+    <text x="38" y="80" dominant-baseline="hanging" font-family="Space Grotesk, Arial, sans-serif" font-size="44" font-weight="700" fill="#111827">Space Grotesk</text>
+    <text x="38" y="140" dominant-baseline="hanging" font-family="Inter, Arial, sans-serif" font-size="20" fill="#64748B">Headings / 700 / confident and technical</text>
+    <text x="430" y="80" dominant-baseline="hanging" font-family="Inter, Arial, sans-serif" font-size="39" font-weight="600" fill="#111827">Inter</text>
+    <text x="430" y="140" dominant-baseline="hanging" font-family="Inter, Arial, sans-serif" font-size="20" fill="#64748B">Body / 400â€“600 / quiet and readable</text>
+  </g>
+
+  <g transform="translate(670 610)">
+    <rect x="0" y="0" width="820" height="190" rx="32" fill="#FFFFFF" filter="url(#shadow)"/>
+    <text x="38" y="32" dominant-baseline="hanging" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3" fill="#64748B">PALETTE</text>
+    <g transform="translate(38 78)">
+      <rect x="0" y="0" width="166" height="62" rx="14" fill="#2563EB"/>
+      <text x="12" y="76" dominant-baseline="hanging" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#2563EB">#2563EB</text>
+      <rect x="190" y="0" width="166" height="62" rx="14" fill="#111827"/>
+      <text x="202" y="76" dominant-baseline="hanging" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#111827">#111827</text>
+      <rect x="380" y="0" width="166" height="62" rx="14" fill="#F8FAFC" stroke="#CBD5E1"/>
+      <text x="392" y="76" dominant-baseline="hanging" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#64748B">#F8FAFC</text>
+      <rect x="570" y="0" width="166" height="62" rx="14" fill="#14B8A6"/>
+      <text x="582" y="76" dominant-baseline="hanging" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#0F766E">#14B8A6</text>
+    </g>
+  </g>
+
+  <g transform="translate(110 850)">
+    <text x="0" y="0" dominant-baseline="hanging" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3" fill="#64748B">STYLE NOTE</text>
+    <text x="0" y="42" dominant-baseline="hanging" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="600" fill="#111827">Space Grotesk for headings; Inter for body. Blue #2563EB, ink #111827, canvas #F8FAFC, teal #14B8A6.</text>
+    <text x="0" y="84" dominant-baseline="hanging" font-family="Inter, Arial, sans-serif" font-size="23" fill="#475569">Mood: calm, precise, modern, and quietly confidentâ€”framing the work without competing with it.</text>
+  </g>
+</svg>
+
+
